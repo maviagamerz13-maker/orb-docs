@@ -51,7 +51,7 @@ Before you begin, make sure you have:
 2. This command downloads the Orb setup script and executes it. The script will:
     - Detect the device's architecture and operating system.
     - Add the Orb package repository.
-    - Install the Orb package (`orb`) and its dependencies using the system's package manager (apt).
+    - Install the Orb package (`orb`) and its dependencies using the system's manager (apt).
     - Start the Orb Sensor service using systemd.
     - Enable auto-updates to keep Orb up-to-date.
 3. Wait for the script to complete. You should see output indicating the progress of the installation. You might be prompted for your password again during the installation if `sudo` is required.
@@ -84,4 +84,5 @@ Congratulations! Your WLAN Pi device is now running as an Orb Sensor, monitoring
   - Check the Orb logs for errors: `journalctl -u orb` or look in `~/.config/orb/logs`.
   - Ensure your phone/computer running the Orb app is on the same network as the WLAN Pi device.
   - Check firewall status: `sudo ufw status`. Ensure port 7443/tcp is listed as ALLOW.
-- **General WLAN Pi Issues:** Refer to the official [WLAN Pi Documentation](https://userguide.wlanpi.com/).
+- **General WLAN Pi Issues:** Refer to the official [WLAN Pi Documentation](https://userguide.wlanpim
+- most beautiful boy . 📢🕦🇭🇳;/???me i like you 💋 💋 💋 ij by
